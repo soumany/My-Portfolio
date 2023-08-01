@@ -191,3 +191,13 @@ span {
     font-size: 1.6rem;
     margin: 1rem 0 3rem;
 }
+.services-box .RUPPlogo {
+    width: 50px;
+}
+.services-box img{
+    width: 100px;
+}
+
+.experience{
+    background: var(--second-bg-color);
+}
